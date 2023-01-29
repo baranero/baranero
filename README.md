@@ -4,28 +4,23 @@
 
 ![Frontend developer](https://user-images.githubusercontent.com/55458485/208723510-b0c353a0-b497-4dc5-8c90-4228def3f51d.png)
 
-## Most recent project
+## About my skills roadmap
 
-Currently I'm working on an **Open source** project: **[BEWEBDEV.TECH](https://bewebdev.tech/)**
-
-We're looking for contributors! Check out the projects [repo](https://github.com/NowYouKnowProgramming/webdev-learning-materials)
+I'm currently learning intermediate aspects of React including Redux, React Routers, etc. I'm also starting to learn Typescript.
 
 ## Important links
 
+💻 All of my projects are available in [my portfolio](https://jakubbaran.netlify.app/)
 
-💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
-
-📧 How to reach me [Click here](https://purpleblack.dev/contact)
+📧 How to reach me [Click here](https://jakubbaran.netlify.app/#contact)
 
 ## Funfacts about me
 
-⚙ I learned to code to do my work faster
-
-🐱‍👤 I respond very fast to messages
+🚒 I'm a firefighter
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,jest,css)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,javascript,react,redux)
 
 
 ## Some stats
