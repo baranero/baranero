@@ -26,10 +26,10 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 ## Some stats
 
 <span>
-<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodideagiver&show_icons=true&locale=en&layout=compact&theme=transparent" alt="goodideagiver" /> 
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=baranero&show_icons=true&locale=en&layout=compact&theme=transparent" alt="baranero" /> 
 </span>
 <span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=goodideagiver&show_icons=true&locale=en&theme=transparent" alt="goodideagiver" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=baranero&show_icons=true&locale=en&theme=transparent" alt="baranero" />
 </span>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baranero&label=Profile%20views&color=0e75b6&style=flat" alt="baranero" /> </p>
