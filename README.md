@@ -10,10 +10,10 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 
 ## Important links
 
-💻 All of my projects are available in [my portfolio](https://jakubbaran.netlify.app/)
+💻 All of my projects are available in [my portfolio](https://jakubbaran.dev/)
 
-📧 How to reach me [Click here](https://jakubbaran.netlify.app/#contact)
-
+📧 How to reach me [Click here](https://jakubbaran.dev/#contact)
+e
 ## Funfacts about me
 
 🚒 I'm a firefighter
