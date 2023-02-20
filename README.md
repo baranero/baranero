@@ -20,7 +20,7 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,javascript,react,redux)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,javascript,react,redux,nextjs)
 
 
 ## Some stats
