@@ -32,4 +32,6 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=baranero&show_icons=true&locale=en&theme=transparent" alt="baranero" />
 </span>
 
+<p align="left"> <img src="https://www.codewars.com/users/baranero/badges/large" alt="Codewars Stats"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranero&label=Profile%20views&color=0e75b6&style=flat" alt="baranero" /> </p>
