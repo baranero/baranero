@@ -2,7 +2,7 @@
 
 
 
-![Frontend developer]([https://user-images.githubusercontent.com/55458485/208723510-b0c353a0-b497-4dc5-8c90-4228def3f51d.png](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1480&t=st=1677157340~exp=1677157940~hmac=5069581a8660a21f22e8d9399455272b241baec1a994fe4a881eff4192e5322c))
+![Frontend developer](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1480&t=st=1677157340~exp=1677157940~hmac=5069581a8660a21f22e8d9399455272b241baec1a994fe4a881eff4192e5322c)
 
 ## About my skills roadmap
 
@@ -40,3 +40,7 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 ##
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranero&label=Profile%20views&color=0e75b6&style=flat" alt="baranero" /> </p>
+
+#
+
+<a href="https://www.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_25579683.htm#query=frontend&position=19&from_view=search&track=sph">Image by vector4stock</a> on Freepik
