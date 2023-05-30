@@ -6,7 +6,7 @@
 
 ## About my skills roadmap
 
-I'm currently learning intermediate aspects of React including Redux, React Routers, etc. I'm also starting to learn Typescript.
+I have completed my own FireApp. The application was created to automate some activities that still take place on paper. Thanks to this application, officers resting at home after duty have 24/7 access to data on overtime worked or used holidays. This allows you to better plan your free time.
 
 ## Important links
 
