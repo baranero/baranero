@@ -13,13 +13,9 @@ I'm currently learning intermediate aspects of React including Redux, React Rout
 💻 All of my projects are available in [my portfolio](https://jakubbaran.dev/)
 
 
-## Funfacts about me
-
-🚒 I'm a firefighter
-
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,javascript,react,redux,nextjs,jest,typescript)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,javascript,react,redux,nextjs,typescript)
 
 
 ## Some stats
