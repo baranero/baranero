@@ -25,9 +25,6 @@
 </span>
 <br>
 
-## Fun with CodeWars
-
-<p align="left"> <img src="https://www.codewars.com/users/baranero/badges/large" alt="Codewars Stats"/> </p>
 
 ##
 
