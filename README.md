@@ -4,9 +4,6 @@
 
 ![Frontend developer](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1480&t=st=1677157340~exp=1677157940~hmac=5069581a8660a21f22e8d9399455272b241baec1a994fe4a881eff4192e5322c)
 
-## About my skills roadmap
-
-I have completed my own project - FireApp. The application was created to automate some activities that still are written on paper. Thanks to this application, officers resting at home after duty have 24/7 access to data on overtime worked or used holidays. This allows you to better plan your free time.
 
 ## Important links
 
